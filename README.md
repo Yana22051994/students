@@ -2,10 +2,7 @@
 
 Это мой второй проект на обучающем курсе школы "Тыжпрограммисты" 
 
-![Иллюстрация к проекту](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpirLnW0LAFi7tVClj2NeWEpJyHznGYNldaqAMrI7kGlOcg6Zx)
-
-## Задание:
-***`Есть двумерный массив А(N,M). Найти максимальный элемент массива и разделить на него все диагональные элементы.`***
+![Иллюстрация к проекту](http://in-poland.com/wp-content/uploads/2017/08/Studenty-poluchayut-diplom.jpg)
 
 -----
 -----
